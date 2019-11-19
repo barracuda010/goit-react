@@ -1,0 +1,18 @@
+.transaction__history {
+  width: 875px;
+  margin: 0 auto;
+}
+
+.transaction__list {
+  height: 60px;
+  background-color: #00bcd4;
+  color: #ffff;
+  text-transform: uppercase;
+}
+
+.transaction__item {
+  height: 60px;
+  background-color: #ecf2f3;
+  color: rgb(138, 135, 135);
+  text-transform: uppercase;
+}

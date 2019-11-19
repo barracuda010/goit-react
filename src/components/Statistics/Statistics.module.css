@@ -1,0 +1,38 @@
+.container {
+  display: block;
+  margin: 0 auto;
+  border-radius: 2px;
+  background-color: rgb(175, 173, 173);
+  box-shadow: 0px 2px 2px 0px rgba(2, 2, 2, 0.02);
+  width: 268px;
+}
+
+.title {
+  text-align: center;
+  font-size: 18px;
+  color: #3f8abc;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 30px;
+}
+
+.stats__list {
+  display: flex;
+  padding: 0;
+}
+
+.stats__item {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  width: 67px;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  color: #ffff;
+  font-size: 20px;
+  font-weight: bold;
+}
